@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 9b4e09b68d552f44cba579a8df1d21df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Houppier
+    100004: Icosphere_009
+    100006: Icosphere_010
+    100008: Icosphere_011
+    100010: Icosphere_012
+    100012: Icosphere_013
+    100014: Icosphere_014
+    100016: Icosphere_015
+    100018: Icosphere_016
+    100020: Icosphere_017
+    100022: Leaves
+    100024: tree
+    400000: //RootNode
+    400002: Houppier
+    400004: Icosphere_009
+    400006: Icosphere_010
+    400008: Icosphere_011
+    400010: Icosphere_012
+    400012: Icosphere_013
+    400014: Icosphere_014
+    400016: Icosphere_015
+    400018: Icosphere_016
+    400020: Icosphere_017
+    400022: Leaves
+    400024: tree
+    2100000: unnamed
+    2100002: Material_001__22cc08bcdf874b270f39170a41fa0fdb_jpg
+    2100004: Material_002__1_n7RSgdnw1lJA1-kwlycOZQ_jpeg
+    2300000: Houppier
+    2300002: Icosphere_009
+    2300004: Icosphere_010
+    2300006: Icosphere_011
+    2300008: Icosphere_012
+    2300010: Icosphere_013
+    2300012: Icosphere_014
+    2300014: Icosphere_015
+    2300016: Icosphere_016
+    2300018: Icosphere_017
+    2300020: Leaves
+    3300000: Houppier
+    3300002: Icosphere_009
+    3300004: Icosphere_010
+    3300006: Icosphere_011
+    3300008: Icosphere_012
+    3300010: Icosphere_013
+    3300012: Icosphere_014
+    3300014: Icosphere_015
+    3300016: Icosphere_016
+    3300018: Icosphere_017
+    3300020: Leaves
+    4300000: Icosphere_017
+    4300002: Icosphere_016
+    4300004: Icosphere_015
+    4300006: Icosphere_014
+    4300008: Icosphere_013
+    4300010: Icosphere_012
+    4300012: Icosphere_011
+    4300014: Icosphere_010
+    4300016: Icosphere_009
+    4300018: Houppier
+    4300020: Leaves
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
